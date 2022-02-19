@@ -1,0 +1,15 @@
+E:\MyCode\Home\CsConsole\bin\Debug\net6.0\CsConsole.exe
+E:\MyCode\Home\CsConsole\bin\Debug\net6.0\CsConsole.deps.json
+E:\MyCode\Home\CsConsole\bin\Debug\net6.0\CsConsole.runtimeconfig.json
+E:\MyCode\Home\CsConsole\bin\Debug\net6.0\CsConsole.dll
+E:\MyCode\Home\CsConsole\bin\Debug\net6.0\CsConsole.pdb
+E:\MyCode\Home\CsConsole\obj\Debug\net6.0\CsConsole.csproj.AssemblyReference.cache
+E:\MyCode\Home\CsConsole\obj\Debug\net6.0\CsConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyCode\Home\CsConsole\obj\Debug\net6.0\CsConsole.AssemblyInfoInputs.cache
+E:\MyCode\Home\CsConsole\obj\Debug\net6.0\CsConsole.AssemblyInfo.cs
+E:\MyCode\Home\CsConsole\obj\Debug\net6.0\CsConsole.csproj.CoreCompileInputs.cache
+E:\MyCode\Home\CsConsole\obj\Debug\net6.0\CsConsole.dll
+E:\MyCode\Home\CsConsole\obj\Debug\net6.0\refint\CsConsole.dll
+E:\MyCode\Home\CsConsole\obj\Debug\net6.0\CsConsole.pdb
+E:\MyCode\Home\CsConsole\obj\Debug\net6.0\CsConsole.genruntimeconfig.cache
+E:\MyCode\Home\CsConsole\obj\Debug\net6.0\ref\CsConsole.dll
